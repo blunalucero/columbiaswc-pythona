@@ -1,19 +1,20 @@
 
 
 
-# Columbia University x Software Carpentries<br>  Python Group B
+# Columbia University x Software Carpentries<br>  Python Group A
 
-__Bootcamp Site:__ https://columbiaswc.github.io/2018-08-27-Columbia-B/
+__Bootcamp Site:__ https://columbiaswc.github.io/2018-08-27-Columbia-A/
 
 __Instructors:__
 
-- Cesar Arias – ca2783@columbia.edu
-- Marii Nyröp – m.nyrop@columbia.edu | [@mnyrop](https://github.com/mnyrop) | [marii.info](http://marii.info)
+- Brian Luna Lucero – bal35@columbia.edu
+- C.J. Wright – cw2981@columbia.edu
+- George Garrett - shinobu@columbia.edu
 
 __Helpers:__
-- Jochen Weber
-- Parixit Davé
-- Yanchen Liu
+- Michael Weisner
+- John Pellman
+
 
 # Contents
 - [Schedule](#schedule)
@@ -75,7 +76,7 @@ __Setup check in:__
 - [ ] Do you have 2 color post-its?
 
 __Setup resources:__
-- <https://columbiaswc.github.io/2018-08-27-Columbia-B/#setup>
+- <https://columbiaswc.github.io/2018-08-27-Columbia-A/#setup>
 - <http://swcarpentry.github.io/shell-novice/setup.html>
 - <http://dhbox.org/> ~> instructions: <https://gist.github.com/mnyrop/4f6ff1b8a3737782c12fcedbb8da8966>
 
