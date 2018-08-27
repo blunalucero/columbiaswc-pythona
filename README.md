@@ -73,6 +73,7 @@ __Setup check in:__
 - [ ] Do you have [Jupyter notebooks](https://jupyter.org/install) installed? (You can check by opening a Terminal and entering the command `jupyter notebook`. This should open a browser.)
 - [ ] Do you have the demo data for [bash](http://swcarpentry.github.io/shell-novice/setup.html) and [python](https://swcarpentry.github.io/python-novice-inflammation/setup/) downloaded?
 - [ ] Do you have a [GitHub account](https://github.com/join)?
+- [ ] Have you read [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)?
 - [ ] Do you have 2 color post-its?
 
 __Setup resources:__
