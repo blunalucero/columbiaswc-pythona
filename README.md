@@ -74,6 +74,7 @@ __Setup check in:__
 - [ ] Do you have the demo data for [bash](http://swcarpentry.github.io/shell-novice/setup.html) and [python](https://swcarpentry.github.io/python-novice-inflammation/setup/) downloaded?
 - [ ] Do you have a [GitHub account](https://github.com/join)?
 - [ ] Have you read [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)?
+- [ ] Have you taken [The Pre-Workshop Survey](https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id=2018-08-27-Columbia-A)?
 - [ ] Do you have 2 color post-its?
 
 __Setup resources:__
